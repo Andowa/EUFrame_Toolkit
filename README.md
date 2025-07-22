@@ -1,8 +1,8 @@
-![release](https://img.shields.io/github/v/release/essentialunified/framework?include_prereleases&style=social)
-![license](https://img.shields.io/github/license/essentialunified/eu-api?style=social)
-![size](https://img.shields.io/github/languages/code-size/essentialunified/framework?style=social)
+![release](https://img.shields.io/github/v/release/Andowa/EUFrame_Toolkit?include_prereleases&style=social)
+![license](https://img.shields.io/github/license/Andowa/EUFrame_Toolkit?style=social)
+![size](https://img.shields.io/github/languages/code-size/Andowa/EUFrame_Toolkit?style=social)
 
-### English | [简体中文](http://frame.eqmemory.cn/baike)
+### English | [简体中文](http://frame.eqmemory.cn/)
 
 #### Introduction
 
@@ -68,4 +68,4 @@ install-dev is the installation directory of visual package on the development s
 └─── EUVER.ini /*Version*/
 ```
 
-#### [Development documentation](http://frame.eqmemory.cn/baike)
+#### [Development documentation](http://frame.eqmemory.cn/)
