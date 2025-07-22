@@ -2,31 +2,31 @@
 ![license](https://img.shields.io/github/license/Andowa/EUFrame_Toolkit?style=social)
 ![size](https://img.shields.io/github/languages/code-size/Andowa/EUFrame_Toolkit?style=social)
 
-### English | [简体中文](http://frame.eqmemory.cn/)
+### [完整手册与介绍](http://frame.eqmemory.cn/)
 
-#### Introduction
+#### 项目简介
 
-EssentialUnified Framework (EU) is based on PHP multi-end development framework, class library perfect, suitable for the development of various types of applications.
+EU框架（全称EssentialUnified Framework，简写EU、EUFrame、EUFramework）是基于PHP的多端应用开发框架。EU框架内置几乎所有关系数据库或非关系数据库的类库，拥有可自定义的模板引擎、语言本地化解析器及各种函数库。轻便简易的开发模式使开发者更容易理解流程、上手开发。使用EU虽然需要PHP基础知识，但更多的是对EU函数方法的调用，这将节省更多的开发时间。
 
-#### Schematic diagram
+#### EU框架与传统MVC区别
 
 ![schematic](http://frame.eqmemory.cn/image/mvcyl.jpg)
 
 ![schematic](http://frame.eqmemory.cn/image/euyl-en.png)
 
-#### Environment
+#### 运行环境
 
-Support Nginx/Apache/IIS.  
-Support PHP5/PHP7/PHP8 and other known upward distributions.
+支持 Nginx/Apache/IIS.  
+支持 PHP5/PHP7/PHP8(可用但有函数错误) .
 
-#### Security
+#### 安全相关
 
-.eu.config configuration contains sensitive information.  
-You must set in the configuration file to prohibit non local access Config file.  
-[Server configuration example](http://frame.eqmemory.cn/baike/config.php)
-install-dev is the installation directory of visual package on the development side. If visualization is not required, please delete this directory after deploying EU.
+.eu.config配置包含敏感信息。  
+您必须在配置文件中设置禁止非本地访问配置文件。  
+[服务器配置示例](http://frame.eqmemory.cn/baike/config.php)
+install-dev是开发端可视包的安装目录，如果不需要可视化，请在部署EU后删除此目录
 
-#### system architecture
+#### 程序目录
 
 ```
 ┌─── app /*Application*/
@@ -68,5 +68,3 @@ install-dev is the installation directory of visual package on the development s
 ├─── essentialunified /*Command line*/
 └─── EUVER.ini /*Version*/
 ```
-
-#### [Development documentation](http://frame.eqmemory.cn/)
