@@ -11,7 +11,7 @@ EssentialUnified Framework (EU) is based on PHP multi-end development framework,
 #### Schematic diagram
 
 Difference from traditional MVC  
-![schematic](http://frame.eqmemory.cn/image/euyl-en.jpg)
+![schematic](http://frame.eqmemory.cn/image/euyl-en.png)
 
 #### Environment
 
