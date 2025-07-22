@@ -23,7 +23,7 @@ EU框架（全称EssentialUnified Framework，简写EU、EUFrame、EUFramework�
 
 .eu.config配置包含敏感信息。  
 您必须在配置文件中设置禁止非本地访问配置文件。  
-[服务器配置示例](http://frame.eqmemory.cn/baike/config.php)
+[服务器配置示例](http://frame.eqmemory.cn/config-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.html)
 install-dev是开发端可视包的安装目录，如果不需要可视化，请在部署EU后删除此目录
 
 #### 程序目录
