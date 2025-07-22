@@ -1,0 +1,18 @@
+{
+  "name": "essentialunified/framework",
+  "description": "EU Framework is based on PHP multi-end development framework, class library perfect, suitable for the development of various types of applications.",
+  "keywords": [
+    "EU",
+    "EssentialUnified",
+    "EU Framework"
+  ],
+  "homepage": "http://frame.eqmemory.cn",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Exist",
+      "email": "2035411586@qq.com"
+    }
+  ],
+  "require": {}
+}

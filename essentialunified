@@ -1,0 +1,6 @@
+#!/usr/bin/env php
+<?php
+namespace essentialunified;
+require dirname(__FILE__).'/'.'autoload.php';
+use library\EssentialUnifiedCli\EUCli;
+EUCli::Run($argv);
